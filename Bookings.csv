@@ -1,0 +1,11 @@
+﻿customer_id,booking_id,cab_id,pickup_location,pickup_date,driver_id,drop_location,status,booking_date,cancelled_by,cancelled_reason
+101,1,31,Viman Nagar,11/6/2026,44,Balewadi,completed,6/10/2026,,
+102,2,33,VishrantWadi,3/8/2026,42,Chikhali,cancelled,8/3/2026,Priya  Mule,take a long time 
+103,3,32,Bhosari,3/8/2026,43,Talwade,Booked,8/3/2026,,
+104,4,31,Chakan,4/10/2026,41,Nashik Phata,Ongoing,10/4/2026,,
+105,5,32,PCMC  Bhavn,13/05/2026,44,Bhosari,completed,            13/05/2026,,
+106,6,33,Nigdi,4/6/2026,43,Hinjwadi Phase1,completed,6/4/2026,,
+107,7,31,hadapsar,3/8/2026,42,Talwade,cancelled,8/3/2026,mrunal sawant,no reply after calling
+108,8,33,chikhali,6/12/2026,41,Nashik Phata,completed,12/6/2026,,
+109,9,31,ravet,23/6/2026,45,Bhosari,Ongoing,23/06/2026,,
+110,10,32,thermax chowk,6/12/2026,46,Hinjwadi Phase1,cancelled,12/6/2026,akshara kshirsagar,take a long time 

@@ -1,0 +1,11 @@
+﻿feedback_id,booking_id,customer_id,driver_id,rating,feedback_date,comment
+201,1,101,44,4,11/6/2026,good service
+202,2,102,42,4.3,3/8/2026,good service
+203,3,103,43,4.8,3/8/2026,expected ride
+204,4,104,41,4.7,4/10/2026,best service
+205,5,105,44,4.9,13/05/2026,better service
+206,6,106,43,3.8,4/6/2026,driver behaviour with customer is not good
+207,7,107,42,3.5,3/8/2026,need to drive  slowly
+208,8,108,41,5,6/12/2026,best service
+209,9,109,45,4,23/6/2026,need to drive  patiencely
+210,10,110,46,4.6,6/12/2026,driver behaviour with customer is too good
